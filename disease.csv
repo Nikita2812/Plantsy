@@ -1,0 +1,28 @@
+﻿Cure,Cure_Cycle,disease_name,domain,diseaseIndex,introductions,symptoms,cover_link,plantIndex
+cure for rust,21,Apple Rust,apple,0,introductions for rust,syptoms of rust,cover_link,0
+cure for black rot,21,Apple Black rot,apple,1,introduction for blackrot,symptoms of blackrot,cover_link,0
+cure for scab,21,Apple scab,apple,2,introduction for scab,symptoms of scab,cover_link,0
+cure for bell pepper,21,bell pepper bacterial,bell pepper ,0,introduction for bell pepper,symptoms of bacterial bell peppper,cover_link,1
+cure for powdery mildew,21,cherry powdery mildew,cherry,0,introduction for cherry,symptoms of powdery mildew,cover_link,2
+cure for black spot,21,citrus black spot,citrus,0,introduction for citurs,symptoms of black spot,cover_link,3
+cure for canker,21,citrus canker,citrus,1,introduction for citurs,symptoms of canker,cover_link,3
+cure for greening,21,citrus greening,citrus,2,introduction for citurs,symptoms of greening,cover_link,3
+cure for common rust,21,corn common rust,corn,0,introduction for corn,symptoms of rust,cover_link,4
+cure for gray leaf spot,21,corn gray leaf spot,corn,1,introduction for corn,symptoms of spot,cover_link,4
+cure for northern leaf blight,21,corn northern leaf blight,corn,2,introduction for corn,symptoms of blight,cover_link,4
+cure for black measles,21,grape black measels,grape,0,introduction for grape,symptoms of measels,cover_link,5
+cure for black rot,21,grape black rot,grape,1,introduction for grape,symptoms of rot,cover_link,5
+cure for leaf spot,21,grape isariopsis leaf spot,grape,2,introduction for grape,symptoms of spot,cover_link,5
+cure for bacterial spot,21,peach bacterial spot,peach,0,introduction for peach,symptoms of spot,cover_link,6
+cure for early blight,21,potato early blight,potato,0,introduction for potato,symptoms of blight,cover_link,7
+cure for late blight,21,potato late blight,potato,1,introduction for potato,symptoms of blight,cover_link,7
+cure for leaf scorch,21,strawberry leaf scorch,strawberry,0,introduction for strawberry,symptoms of scorch,cover_link,8
+cure for bacterial spot,21,tomato bacterial spot,tomato,0,introduction for tomato,symptoms of spot,cover_link,9
+cure for early blight,21,tomato early blight,tomato,1,introduction for tomato,symptoms of blight,cover_link,9
+cure for late blight,21,tomato late blight,tomato,2,introduction for tomato,symptoms of blight,cover_link,9
+cure for leaf mold,21,tomato leaf mold,tomato,3,introduction for tomato,symptoms of mold,cover_link,9
+cure for mosaic virus,21,tomato mosaic virus,tomato,4,introduction for tomato,symptoms of virus,cover_link,9
+cure for septoria leaf spot,21,tomato septoria leaf spot,tomato,5,introduction for tomato,symptoms of spot,cover_link,9
+cure for spider mites,21,tomato spider mites,tomato,6,introduction for tomato,symptoms of mites,cover_link,9
+cure for target spot,21,tomato target spot,tomato,7,introduction for tomato,symptoms of spot,cover_link,9
+cure for leaf curl virus,21,tomato leaf curl virus,tomato,8,introduction for tomato,symptoms of virus,cover_link,9
